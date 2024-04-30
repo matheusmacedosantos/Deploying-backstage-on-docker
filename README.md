@@ -1,10 +1,6 @@
 
 # Documentação de Configuração e Execução do Backstage
 
-## Introdução
-
-Este documento detalha o processo de configuração e execução do Backstage, uma plataforma para construção de sistemas de desenvolvedor dentro da sua organização. O foco é facilitar a gestão de configuração e fornecer uma guia clara e replicável.
-
 ## Preparação do Ambiente
 
 ### Instalação do Backstage
